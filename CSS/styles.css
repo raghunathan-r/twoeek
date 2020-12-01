@@ -1,0 +1,116 @@
+#title {
+    background-color: aqua;
+    padding-bottom: 20%;
+}
+
+#pair-program-illustration{
+    position: relative;
+    padding-top: 10%;
+    /* height: 70%;
+    width: 70%; */
+
+}
+
+h1 {
+    padding-left: 2%;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    color: #2b2d42;
+}
+
+#about-test-btm{
+    /* padding: 10% 35%; */
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+.navbar {
+    background-color: aqua;
+}
+
+.navbar-toggler{
+    border-style: none;
+    outline: none;
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-size: large;
+}
+
+.about-button {
+    margin: 5% 3% 5% 0%;
+}
+
+#features {
+    padding: 4% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.feature-icon {
+    color: #00bbf9;
+    margin-bottom: 1rem;
+}
+.feature-icon:hover {
+    color: #00f5d4;
+}
+
+.testimonials-container {
+    background-color: aqua;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 20%;
+    height: 20%;
+}
+
+#press {
+    background-color: aqua;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 30px 20px 50px;
+}
+
+.carosel-item {
+    padding: 10%;
+}
+
+.sign-up-btn {
+    
+}  
+
+.email-lable-text {
+}
+
+.signup-info {
+    padding: 0 30px;
+}
+
+.download-section {
+    margin-bottom: 0;
+}
+
+.socials {
+    padding: 4% 15%;
+    text-align: center;
+}
